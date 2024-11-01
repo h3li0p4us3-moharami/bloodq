@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-Having issues? Let us know:
+Having issues? Let me know:
 - Create an issue in this repository
 - Contact Email: h3li0p4us3@proton.me
 - X (formerly known as twitter): [@h3li0p4us3](https://x.com/h3li0p4us3)
